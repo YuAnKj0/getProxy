@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/LITTLESITE/get_nodefree/main/sub.yaml
+https://raw.githubusercontent.com/vveg26/get_proxy/main/dist/clash.config.yaml
